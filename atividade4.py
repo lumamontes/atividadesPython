@@ -1,8 +1,5 @@
-# . Escreva um programa que exiba a agenda o exercício 1 e permita
-# efetuar as seguintes ações:
-# • cadastrar novas pessoas;
-# • alterar os telefones e o e-mail;
-# • excluir pessoas da agenda.
+# Escreva um programa que permita exibir, inserir, alterar e excluir
+# músicas no banco de dados do exercício 3
 import sqlite3 # linha 1
 from datetime import datetime
 from tabulate import tabulate
